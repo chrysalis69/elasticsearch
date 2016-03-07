@@ -1,4 +1,4 @@
-FROM chrysalis69:jre8
+FROM chrysalis69/jre8:latest
 
 MAINTAINER chrysalis69@gmail.com
 
